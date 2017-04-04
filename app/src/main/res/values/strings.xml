@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginTest</string>
+
+    <string name="facebook_app_id">1303635443053950</string>
+    <string name="title_activity_friends_list">FriendsList</string>
+    <string name="title_activity_listview">activity_listview</string>
+</resources>
